@@ -18,7 +18,7 @@ Preview images of the first pages of the reports are also available in the **`im
 
 ## 📊 Projects  
 
-### 1. [Dashboard 1](/Dashboard\ 1)  
+### 1. [Dashboard 1](./Dashboard%201)  
 **Domain:** e.g. Retail / Sales / Healthcare / Finance  
 **Highlights:**  
 - Data cleaning and transformation in Power Query  
@@ -30,7 +30,7 @@ Preview images of the first pages of the reports are also available in the **`im
 
 ---
 
-### 2. [Dashboard 2](./Dashboard 2)  
+### 2. [Dashboard 2](./Dashboard%202)  
 **Domain:** e.g. Marketing / Customer Analytics  
 **Highlights:**  
 - Customer segmentation and churn analysis  
@@ -42,7 +42,7 @@ Preview images of the first pages of the reports are also available in the **`im
 
 ---
 
-### 3. [Project Title 3](./Project3)  
+### 3. [Dashboard 3](./Dashboard%203)  
 **Domain:** e.g. Operations / Logistics  
 **Highlights:**  
 - Data integration from multiple sources  
@@ -50,11 +50,11 @@ Preview images of the first pages of the reports are also available in the **`im
 - Forecasting with Power BI visuals  
 
 **Preview:**  
-![Project 3 Report](./images/Project3.png)  
+![Project 3 Report](./images/dashboard3.png)  
 
 ---
 
-### 4. [Project Title 4](./Project4)  
+### 4. [Dashboard 4](./Dashboard%204)  
 **Domain:** e.g. Finance / Investment Analytics  
 **Highlights:**  
 - Profitability & ROI analysis  
@@ -62,11 +62,11 @@ Preview images of the first pages of the reports are also available in the **`im
 - Custom visuals for insights  
 
 **Preview:**  
-![Project 4 Report](./images/Project4.png)  
+![Project 4 Report](./images/dashboard4.png)  
 
 ---
 
-### 5. [Project Title 5](./Project5)  
+### 5. [Dahboard 5](./Dashboard%205)  
 **Domain:** e.g. Healthcare / Public Data  
 **Highlights:**  
 - Patient / population analysis  
@@ -74,11 +74,11 @@ Preview images of the first pages of the reports are also available in the **`im
 - Drill-through reports  
 
 **Preview:**  
-![Project 5 Report](./images/Project5.png)  
+![Project 5 Report](./images/dashboard5.png)  
 
 ---
 
-### 6. [Project Title 6](./Project6)  
+### 6. [Palmoria Group Report](./Palmoria%20Group%20Report)  
 **Domain:** e.g. HR / Workforce Analytics  
 **Highlights:**  
 - Employee attrition trends  
@@ -86,7 +86,7 @@ Preview images of the first pages of the reports are also available in the **`im
 - Interactive executive summary dashboard  
 
 **Preview:**  
-![Project 6 Report](./images/Project6.png)  
+![Palmoria Group Report](./images/palmoria_report.png)  
 
 ---
 
@@ -100,8 +100,8 @@ Preview images of the first pages of the reports are also available in the **`im
 ## 📬 Contact  
 If you’d like to collaborate, discuss these projects, or explore analytics opportunities, feel free to reach out:  
 
-- **Email:** [your email]  
-- **LinkedIn:** [your LinkedIn profile]  
+- **Email:** [dizundu@yahoo.com](dizundu@yahoo.com)  
+- **LinkedIn:** [Izundu Dan-Ekeh](https://www.linkedin.com/in/izundu-dan-ekeh/)  
 
 ---
 
