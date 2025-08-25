@@ -1,0 +1,33 @@
+
+Copy and post this DAX code in a new table. Goto home when you launch Power BI click on New Table and past this code.
+
+Remember this video is a part to a full Dashboard Course. If you have taken the course already you will find more dashboards with PBIX, resources, and all you need to launch your data career like building good portfolio and optimizing your LinkedIn profile.
+
+Here is the link to the course: https://cutt.ly/c0kUQ3E
+
+
+Calendar = 
+ADDCOLUMNS(
+ CALENDARAUTO(),
+    "Year", YEAR([Date]),
+    "Month", FORMAT([Date],"mmm"),
+    "Month num", MONTH([Date]),
+    "quarter", FORMAT([Date], "\QQ"),
+    "weekdays", FORMAT([Date],"ddd"),
+    "Week num", WEEKDAY([Date])
+)
+
+
+
+
+After you have pasted the code create a new column and past this one DAX code in it:
+
+StartofMonth = 
+STARTOFMONTH(
+    'Calendar'[Date]
+)
+
+
+
+
+You don't need all this if you already have the course. Goodluck!
